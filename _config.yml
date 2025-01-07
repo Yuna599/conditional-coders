@@ -5,7 +5,7 @@ github_username: Yuna599
 github_repo: "conditional-coders" 
 baseurl: "/conditional-coders"
 future: true
-# remote_theme: jekyll/minima
+remote_theme: jekyll/minima
 minima:
   skin: dark
   social_links:
