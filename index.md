@@ -12,4 +12,4 @@ hide: true
 
 ## If Statments
 
-### If statements are usually used to branch conditions. Branch conditions are decisions in a program that happen when a statement is true or false.
+### If statements are usually used to branch conditions. Branch conditions are decisions in a program that happen when a statement is true or false.d
