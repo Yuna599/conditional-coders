@@ -1,9 +1,9 @@
+
 title: Conditional-coders
 description: "Conditions"
 owner_name: Yuna Lee
 github_username: Yuna599
 github_repo: "conditional-coders" 
-baseurl: "/conditional-coders"
 future: true
 remote_theme: jekyll/minima
 minima:
@@ -22,5 +22,4 @@ plugins:
 header_pages:
   - navigation/blog.md
   - navigation/search.md
-  - navigation/about.md
-  - README4YML.md
+  - navigation/HW.md
