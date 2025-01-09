@@ -1,3 +1,4 @@
+---
 layout: post
 title: Conditions
 description: Popcorn hacks for conditions!
@@ -13,4 +14,5 @@ permalink: /sigmaboy
 toc: true
 ---
 
-# Popcorn Hacks
+# Popcorn Hacks: 
+Create a simple system that 
