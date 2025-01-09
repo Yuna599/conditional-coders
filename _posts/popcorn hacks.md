@@ -1,12 +1,12 @@
 layout: post
 title: Conditions
-description: What is conditions? Conditional Statements are what happens next in the program when a certain condition is met. 
+description: Popcorn hacks for conditions!
 categories: [Collaboration]
 courses: { csse: {week: 0}, csp: {week: 0 }, csa: {week: 0}}
 type: collab
 menu: nav/pair_programming.html
-permalink: /doghappy
+permalink: /conditions-hacks
 toc: true
 ---
 
-# All About Conditions
+# Popcorn Hacks
