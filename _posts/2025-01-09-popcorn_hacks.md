@@ -10,5 +10,4 @@ permalink: /conditions-hacks
 toc: true
 ---
 
-# Popcorn Hacks:
-
+# Popcorn Hacks: 
