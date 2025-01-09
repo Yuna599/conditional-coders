@@ -1,3 +1,4 @@
+---
 layout: post
 title: Conditions
 description: Popcorn hacks for conditions!
@@ -9,4 +10,5 @@ permalink: /conditions-hacks
 toc: true
 ---
 
-# Popcorn Hacks
+# Popcorn Hacks:
+
